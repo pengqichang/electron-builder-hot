@@ -4,7 +4,7 @@
     <div class="items">
       <div class="item">
         <div class="name">Path:</div>
-        <div class="value">{{ path }}</div>
+        <div class="value">{{ path }}1111</div>
       </div>
       <div class="item">
         <div class="name">Route Name:</div>
