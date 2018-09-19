@@ -29,7 +29,6 @@ install:
 - curl -o- -L https://yarnpkg.com/install.sh | bash
 - source ~/.bashrc
 - npm install -g xvfb-maybe
-- npm
 script:
 - npm run build
 branches:
